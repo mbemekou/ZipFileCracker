@@ -13,7 +13,7 @@ cd ./ZipFileCracker
 
 chmod +x ZipFileCracker.py              
 
-Use ./ZipFileCracker.py -f <zipfile to crack> -w <wordlist to use to crack zipfile>
+Use ./ZipFileCracker.py -f "zipfile to crack" -w "wordlist to use to crack zipfile"
   
 
 arguments:                                                    
