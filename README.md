@@ -7,7 +7,7 @@ Requirements: Python 2.7.x
 
 Install apt-get -y install git                                
 
-git clone git clone https://github.com/mbemekou/ZipFileCracker.git     
+git clone https://github.com/mbemekou/ZipFileCracker.git     
 
 cd ./ZipFileCracker 
 
