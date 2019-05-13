@@ -7,9 +7,11 @@ Requirements: Python 2.7.x
 
 Install apt-get -y install git                                
 
-git clone https://github.com/mbemekou/UnixPasscracker.git    
+git clone git clone https://github.com/mbemekou/ZipFileCracker.git     
 
-cd ./UnixPasscracker chmod +x UnixPasscracker.py              
+cd ./ZipFileCracker 
+
+chmod +x ZipFileCracker.py              
 
 Use ./ZipFileCracker.py -f <zipfile to crack> -w <wordlist to use to crack zipfile>
   
