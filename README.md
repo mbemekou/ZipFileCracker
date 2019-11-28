@@ -5,7 +5,9 @@ Author: Mbemekou Fred
 
 Requirements: Python 2.7.x        
 
-Install apt-get -y install git                                
+Install apt-get -y install git  python-pip
+
+pip install zipfile termcolor threading getopt
 
 git clone https://github.com/mbemekou/ZipFileCracker.git     
 
